@@ -1,0 +1,23 @@
+# Preset founder - Manuale operativo
+
+> Pacchetto di preset riutilizzabili per validare e lanciare idee di business: mercato e test, modello finanziario, business plan. Versione autonoma: non richiede altri archivi.
+
+Questo file segue la proposta llms.txt (https://llmstxt.org), pensata per essere servita alla radice di un sito web via HTTP. I link sono percorsi relativi del pacchetto.
+
+## Preset
+
+- [Indice manuale operativo founder](indice-manuale-operativo-founder.md): punto d'ingresso, regole della libreria e moduli non ancora promossi a preset
+- [Preset - Analisi di mercato e test](preset-analisi-di-mercato-e-test.md): decidere per quale cliente provare quale offerta; primo preset da attivare
+- [Preset - Modello finanziario](preset-modello-finanziario.md): sorgente unica dei numeri, ipotesi separate, tre scenari
+- [Preset - Business plan operativo](preset-business-plan.md): i 17 punti in tre fasi con gate decisionali
+
+## Riferimenti
+
+- [Business plan universale - 17 punti](business-plan-universale-17-punti.md): checklist di riferimento per il preset business plan
+- [Esempio di dossier di mercato](examples/esempio-dossier-mercato.md): formato della pagina di progetto e proposta di sufficienza ben formata (caso fittizio)
+
+## Optional
+
+- [README](README.md): stato del pacchetto e attribuzioni
+- [AGENTS.md del pacchetto](AGENTS.md): istruzioni per usare i preset con gli agenti
+- [CLAUDE.md del pacchetto](CLAUDE.md): adattatore per Claude Code, rimanda ad AGENTS.md
